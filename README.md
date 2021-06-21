@@ -7,3 +7,5 @@
 
 [day four notes](./day-4/notes.md)
 
+[day five notes](./day-5/notes.md)
+
